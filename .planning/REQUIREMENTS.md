@@ -245,13 +245,146 @@ Explicitly excluded; documented to prevent scope creep.
 
 ## Traceability
 
-Empty initially — populated during roadmap creation. Each requirement maps to exactly one phase.
+Each requirement maps to exactly one phase. Populated during roadmap creation.
+
+| Requirement | Phase | Status |
+|-------------|-------|--------|
+| FOUND-01 | Phase 0 | Pending |
+| FOUND-02 | Phase 0 | Pending |
+| FOUND-03 | Phase 0 | Pending |
+| FOUND-04 | Phase 0 | Pending |
+| FOUND-05 | Phase 0 | Pending |
+| FOUND-06 | Phase 0 | Pending |
+| CODE-01 | Phase 1 | Pending |
+| CODE-02 | Phase 1 | Pending |
+| CODE-03 | Phase 1 | Pending |
+| CODE-04 | Phase 1 | Pending |
+| CODE-05 | Phase 1 | Pending |
+| CODE-06 | Phase 1 | Pending |
+| CODE-07 | Phase 1 | Pending |
+| CODE-08 | Phase 1 | Pending |
+| CODE-09 | Phase 1 | Pending |
+| CODE-10 | Phase 1 | Pending |
+| CODE-11 | Phase 1 | Pending |
+| FFI-01 | Phase 2 | Pending |
+| FFI-02 | Phase 2 | Pending |
+| FFI-03 | Phase 2 | Pending |
+| FFI-04 | Phase 2 | Pending |
+| FFI-05 | Phase 2 | Pending |
+| FFI-06 | Phase 2 | Pending |
+| FFI-07 | Phase 2 | Pending |
+| FFI-08 | Phase 2 | Pending |
+| FFI-09 | Phase 2 | Pending |
+| FFI-10 | Phase 2 | Pending |
+| FFI-11 | Phase 2 | Pending |
+| LIN-01 | Phase 3 | Pending |
+| LIN-02 | Phase 3 | Pending |
+| LIN-03 | Phase 2 | Pending |
+| LIN-04 | Phase 2 | Pending |
+| LIN-05 | Phase 3 | Pending |
+| LIN-06 | Phase 3 | Pending |
+| LIN-07 | Phase 3 | Pending |
+| LIN-08 | Phase 3 | Pending |
+| LIN-09 | Phase 3 | Pending |
+| LIN-10 | Phase 3 | Pending |
+| LIN-11 | Phase 3 | Pending |
+| LIN-12 | Phase 3 | Pending |
+| PERF-01 | Phase 2 | Pending |
+| PERF-02 | Phase 2 | Pending |
+| PERF-03 | Phase 2 | Pending |
+| PERF-04 | Phase 6 | Pending |
+| PERF-05 | Phase 6 | Pending |
+| PERF-06 | Phase 6 | Pending |
+| PERF-07 | Phase 6 | Pending |
+| PERF-08 | Phase 6 | Pending |
+| PERF-09 | Phase 6 | Pending |
+| PERF-10 | Phase 6 | Pending |
+| PERF-11 | Phase 6 | Pending |
+| OPS-01 | Phase 4 | Pending |
+| OPS-02 | Phase 4 | Pending |
+| OPS-03 | Phase 4 | Pending |
+| OPS-04 | Phase 4 | Pending |
+| OPS-05 | Phase 5 | Pending |
+| OPS-06 | Phase 5 | Pending |
+| OPS-07 | Phase 5 | Pending |
+| OPS-08 | Phase 5 | Pending |
+| OPS-09 | Phase 5 | Pending |
+| OPS-10 | Phase 5 | Pending |
+| OPS-11 | Phase 5 | Pending |
+| OPS-12 | Phase 5 | Pending |
+| OPS-13 | Phase 5 | Pending |
+| OPS-14 | Phase 5 | Pending |
+| BUILD-01 | Phase 7 | Pending |
+| BUILD-02 | Phase 7 | Pending |
+| BUILD-03 | Phase 7 | Pending |
+| BUILD-04 | Phase 7 | Pending |
+| BUILD-05 | Phase 7 | Pending |
+| BUILD-06 | Phase 7 | Pending |
+| BUILD-07 | Phase 7 | Pending |
+| BUILD-08 | Phase 7 | Pending |
+| BUILD-09 | Phase 7 | Pending |
+| STDLIB-A-01 | Phase 3 | Pending |
+| STDLIB-A-02 | Phase 5 | Pending |
+| STDLIB-A-03 | Phase 3 | Pending |
+| STDLIB-A-04 | Phase 4 | Pending |
+| STDLIB-A-05 | Phase 4 | Pending |
+| STDLIB-B-01 | Phase 3 | Pending |
+| STDLIB-B-02 | Phase 4 | Pending |
+| STDLIB-B-03 | Phase 4 | Pending |
+| STDLIB-B-04 | Phase 6 | Pending |
+| STDLIB-B-05 | Phase 4 | Pending |
+| STDLIB-B-06 | Phase 3 | Pending |
+| TEST-01 | Phase 7 | Pending |
+| TEST-02 | Phase 7 | Pending |
+| TEST-03 | Phase 7 | Pending |
+| TEST-04 | Phase 7 | Pending |
+| TEST-05 | Phase 7 | Pending |
+| TEST-06 | Phase 7 | Pending |
+| DX-01 | Phase 7 | Pending |
+| DX-02 | Phase 7 | Pending |
+| DX-03 | Phase 7 | Pending |
+| DX-04 | Phase 7 | Pending |
+| DX-05 | Phase 7 | Pending |
+| DX-06 | Phase 7 | Pending |
+| DOC-01 | Phase 8 | Pending |
+| DOC-02 | Phase 8 | Pending |
+| DOC-03 | Phase 8 | Pending |
+| DOC-04 | Phase 8 | Pending |
+| DOC-05 | Phase 8 | Pending |
+| DOC-06 | Phase 8 | Pending |
+| DOC-07 | Phase 8 | Pending |
+| DOC-08 | Phase 8 | Pending |
+| REL-01 | Phase 8 | Pending |
+| REL-02 | Phase 8 | Pending |
+| REL-03 | Phase 8 | Pending |
+| REL-04 | Phase 8 | Pending |
+| REL-05 | Phase 8 | Pending |
+| REL-06 | Phase 8 | Pending |
+| REF-01 | Phase 8 | Pending |
+| REF-02 | Phase 8 | Pending |
+| REF-03 | Phase 8 | Pending |
+| REF-04 | Phase 8 | Pending |
+| REF-05 | Phase 8 | Pending |
+| REF-06 | Phase 8 | Pending |
 
 **Coverage:**
 - v1 requirements: 117 total (FOUND: 6, CODE: 11, FFI: 11, LIN: 12, PERF: 11, OPS: 14, BUILD: 9, STDLIB-A: 5, STDLIB-B: 6, TEST: 6, DX: 6, DOC: 8, REL: 6, REF: 6)
-- Mapped to phases: 0 ⚠️ (filled by roadmapper)
-- Unmapped: 117 ⚠️
+- Mapped to phases: 117 ✓
+- Unmapped: 0 ✓
+
+**Per-phase counts:**
+- Phase 0 (Project Setup): 6 reqs (all FOUND)
+- Phase 1 (Codegen Foundation): 11 reqs (all CODE)
+- Phase 2 (FFI + Defensive Membrane): 16 reqs (11 FFI + LIN-03/04 + PERF-01/02/03)
+- Phase 3 (Linearity + Loom): 14 reqs (10 LIN core + STDLIB-A-01/03 + STDLIB-B-01/06)
+- Phase 4 (Spring Integration): 9 reqs (OPS-01/02/03/04 + STDLIB-A-04/05 + STDLIB-B-02/03/05)
+- Phase 5 (Observability): 11 reqs (OPS-05–14 + STDLIB-A-02)
+- Phase 6 (Performance): 9 reqs (PERF-04–11 + STDLIB-B-04)
+- Phase 7 (Developer Experience + Test): 21 reqs (9 BUILD + 6 DX + 6 TEST)
+- Phase 8 (Reference Service + Docs + Release): 20 reqs (6 REF + 8 DOC + 6 REL)
+
+Total: 6+11+16+14+9+11+9+21+20 = **117** ✓
 
 ---
 *Requirements defined: 2026-04-21*
-*Last updated: 2026-04-21 after initial definition*
+*Last updated: 2026-04-21 — traceability populated by roadmapper (117/117 mapped)*
